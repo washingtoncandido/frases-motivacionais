@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Motivation</string>
+    <string name="vamos_come_ar">Vamos Começar</string>
+    <string name="qual_o_seu_nome">Qual o seu nome?</string>
+    <string name="Button_login">Salvar</string>
+</resources>
